@@ -1,0 +1,1 @@
+export const add: Function = (a: number, b: number): number => a + b;
